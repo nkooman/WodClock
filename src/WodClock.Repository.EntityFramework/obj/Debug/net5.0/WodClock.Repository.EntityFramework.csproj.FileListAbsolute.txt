@@ -1,0 +1,12 @@
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\WodClock.Repository.EntityFramework.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\WodClock.Repository.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\WodClock.Repository.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\WodClock.Repository.EntityFramework.AssemblyInfo.cs
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\WodClock.Repository.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\WodClock.Repository.EntityFramework.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\ref\WodClock.Repository.EntityFramework.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\obj\Debug\net5.0\WodClock.Repository.EntityFramework.pdb
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\bin\Debug\net5.0\WodClock.Repository.EntityFramework.deps.json
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\bin\Debug\net5.0\WodClock.Repository.EntityFramework.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\bin\Debug\net5.0\ref\WodClock.Repository.EntityFramework.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Repository.EntityFramework\bin\Debug\net5.0\WodClock.Repository.EntityFramework.pdb

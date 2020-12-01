@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\obj\Debug\netcoreapp3.1\WodClock.Mapping.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\obj\Debug\netcoreapp3.1\WodClock.Mapping.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\obj\Debug\netcoreapp3.1\WodClock.Mapping.AssemblyInfo.cs
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\obj\Debug\netcoreapp3.1\WodClock.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\obj\Debug\netcoreapp3.1\WodClock.Mapping.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\obj\Debug\netcoreapp3.1\WodClock.Mapping.pdb
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\bin\Debug\netcoreapp3.1\WodClock.Mapping.deps.json
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\bin\Debug\netcoreapp3.1\WodClock.Mapping.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Mapping\bin\Debug\netcoreapp3.1\WodClock.Mapping.pdb

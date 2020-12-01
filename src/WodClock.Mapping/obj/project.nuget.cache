@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYgaHeyTuxNllZb6iCSPRHBJsSblegqGEJDOiaAIk41Yg3+HoTif0bpidAvfWSg9hFmt64jf9INKUDBnUVXK0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nick\\Documents\\_Projects\\WodClock\\src\\WodClock.Mapping\\WodClock.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nick\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Nick\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nick\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nick\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nick\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

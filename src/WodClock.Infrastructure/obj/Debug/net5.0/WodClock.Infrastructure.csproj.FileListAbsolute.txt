@@ -1,0 +1,17 @@
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\WodClock.Infrastructure.deps.json
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\WodClock.Infrastructure.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\ref\WodClock.Infrastructure.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\WodClock.Infrastructure.pdb
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\WodClock.Core.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\WodClock.Repository.EntityFramework.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\WodClock.Core.pdb
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\bin\Debug\net5.0\WodClock.Repository.EntityFramework.pdb
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.AssemblyInfo.cs
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.csproj.CopyComplete
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\ref\WodClock.Infrastructure.dll
+C:\Users\Nick\Documents\_Projects\WodClock\src\WodClock.Infrastructure\obj\Debug\net5.0\WodClock.Infrastructure.pdb

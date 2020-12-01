@@ -1,0 +1,49 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": ["plugin:@typescript-eslint/recommended", "prettier/@typescript-eslint", "plugin:prettier/recommended", "plugin:react/recommended", "airbnb-typescript", "plugin:functional/external-recommended", "plugin:functional/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "project": "./tsconfig.json",
+    "sourceType": "module",
+    "tsconfigRootDir": "./WodClock.UI"
+  },
+  "plugins": ["@typescript-eslint", "react", "functional", "import"],
+  "rules": {
+    "arrow-parens": "off",
+    "comma-dangle": "off",
+    "indent": "off",
+    "import/prefer-default-export": "off",
+    "linebreak-style": ["error", "windows"],
+    "max-len": ["error", { "code": 250 }],
+    "no-nested-ternary": "off",
+    "prettier/prettier": "off",
+    "@typescript-eslint/comma-dangle": "off",
+    "functional/functional-parameters": "off" // A lot of functions with no parameters are passed around in React.
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["src"],
+        "alias": {
+          "@assets": "./src/assets",
+          "@components": "./src/components",
+          "@atoms": "./src/components/atoms",
+          "@molecules": "./src/components/molecules",
+          "@organisms": "./src/components/organisms",
+          "@navigation": "./src/navigation",
+          "@scenes": "./src/scenes",
+          "@services": "./src/services",
+          "@styles": "./src/styles",
+          "@utils": "./src/utils"
+        }
+      }
+    }
+  }
+}
